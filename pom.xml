@@ -10,7 +10,7 @@
 		<spring-boot.version>2.3.0.RELEASE</spring-boot.version>
 		<xxl-job-core.version>2.2.0</xxl-job-core.version>
 		<mybatis-spring-boot-starter.version>2.1.2</mybatis-spring-boot-starter.version>
-		<mysql-connector-java.version>8.0.20</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.28</mysql-connector-java.version>
 	</properties>
 	
 	<dependencyManagement>
